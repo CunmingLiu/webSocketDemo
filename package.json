@@ -1,0 +1,25 @@
+{
+    "name": "y",
+    "version": "1.0.0",
+    "description": "基于 WebSocket 的聊天室（前端代码）",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "testNodemon": "nodemon"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nnngu/WebSocketDemo-js.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nnngu/WebSocketDemo-js/issues"
+    },
+    "homepage": "https://github.com/nnngu/WebSocketDemo-js#readme",
+    "dependencies": {
+        "express": "^4.18.2",
+        "nodemon": "^2.0.20",
+        "ws": "^8.11.0"
+    }
+}
